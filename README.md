@@ -4,4 +4,5 @@ Self Learning Project on GIT
 
 Build a branching model as depicted in this figure:
 
-![alt text](http://url/to/img.png)
+
+https://github.com/harita-R/SL1-GitProject/blob/production_branch/Picture1.png?raw=true
